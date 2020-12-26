@@ -22,7 +22,9 @@ elif x>0 and x<=1:
     print('Positive')
 
 
-# In[ ]:
+#Output:-
+Type your message:she is beautiful
+Positive
 
 
 
